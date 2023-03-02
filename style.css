@@ -1,0 +1,68 @@
+.lefttop {
+    background-image: url(leftygol.png);
+    background-position: 0.2% 0.2%;
+    background-repeat: no-repeat;
+    overflow: hidden
+}
+
+.rigtop {
+    background-image: url(rightygol.png);
+    background-position: 100% 0%;
+    background-repeat: no-repeat;
+    overflow: hidden
+}
+
+.rigbottom {
+    background-image: url(pravnizygol.png);
+    background-position: 99.8% 99.8%;
+    background-repeat: no-repeat;
+    overflow: hidden
+}
+
+.top {
+    background-image: url(verhstolb.png);
+    background-position: 20% 0.2%;
+    background-repeat: repeat-x;
+    overflow-x: overflow: hidden;
+}
+
+.bottom {
+    background-image: url(verhstolb.png);
+    background-position: 80% 99.8%;
+    background-repeat: repeat-x;
+    overflow: hidden
+}
+
+.rig {
+    background-image: url(vnizstolb.png);
+    background-position: 99.8% 45%;
+    background-repeat: repeat-y;
+    overflow: hidden
+}
+
+.left {
+    background-image: url(vnizstolb.png);
+    background-position: 0.2% 45%;
+    background-repeat: repeat-y;
+    overflow-x: hidden;
+}
+
+.prav {
+    background-image: url(nizlevygol.png);
+    background-position: 0.6% 99.5%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.text {
+    text-align: center;
+    font-size: 30px;
+    padding: 8%;
+    border-style: 0px solid;
+    overflow: hidden
+}
+
+#ramka {
+    overflow: hidden;
+    max-width: 40%;
+}
